@@ -4,11 +4,11 @@ Here is uart test with Radxa CM5.
 
 ## 1. Connect your TTL to USB Module (CH340)
 
-<img width="464" alt="uart" src="https://github.com/user-attachments/assets/9ed41192-a01e-4f74-b713-ec6c76eec923" />
+<img width="515" alt="uart" src="https://github.com/user-attachments/assets/34945839-32e4-48c6-82fd-bc8c2e48cc72" />
 
 Connect TTL to USB Module
 
-<img width="494" alt="connect" src="https://github.com/user-attachments/assets/0b77753b-7a51-4951-b74c-91bccc2935ae" />
+<img width="468" alt="connect" src="https://github.com/user-attachments/assets/7bbe90c3-e781-4fa8-b366-22d0c92d0b55" />
 
 CM5 Uart Setup
 
